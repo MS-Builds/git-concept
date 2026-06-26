@@ -1,0 +1,18 @@
+* {
+  font-family: system-ui;
+}
+
+button {
+  border: none;
+  outline: none;
+  cursor: pointer;
+}
+
+button#login {
+  padding: 0.6rem 0.8rem;
+  background-color: blue;
+  color: white;
+  border-radius: 0.6rem;
+  font-size: 1rem;
+  font-weight: 500;
+}
